@@ -1,0 +1,7 @@
+# Raw menu/album source scans — reference only, not used by the site
+2548-*.jpg
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+node_modules/
